@@ -124,6 +124,5 @@ In the `docs` folder is a static website that allows uploading the graph JSON fi
 Email: godofsix@gmail.com
 
 ## License
-
-MIT
+For public use
 
